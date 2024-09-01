@@ -1,6 +1,6 @@
 matplotlib
 numpy
-openseespy
+opensees
 plotly
 pyvista
 sectionproperties
