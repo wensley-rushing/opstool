@@ -4,7 +4,7 @@ shapely
 pyvista
 plotly
 matplotlib
-openseespy
+opensees
 sectionproperties
 h5py
 rich
